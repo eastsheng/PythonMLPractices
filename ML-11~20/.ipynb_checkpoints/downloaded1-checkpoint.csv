@@ -1,0 +1,26 @@
+
+<html>
+<head>
+  <META HTTP-EQUIV=Refresh CONTENT="1; URL=https://pubchem.ncbi.nlm.nih.gov/sdq/cgi2rcgi.cgi?ctg_time=1687774788&job_key=JSID_01_1700144_130.14.18.128_9000__sdqgridagent_rpc">
+</head>
+
+<body>
+
+<FORM METHOD="GET" ACTION="https://pubchem.ncbi.nlm.nih.gov/sdq/cgi2rcgi.cgi?ctg_time=1687774788&job_key=JSID_01_1700144_130.14.18.128_9000__sdqgridagent_rpc">
+<INPUT TYPE="HIDDEN" NAME="ctg_time" VALUE="1687774788">
+<INPUT TYPE="HIDDEN" NAME="job_key" VALUE="JSID_01_1700144_130.14.18.128_9000__sdqgridagent_rpc">
+
+<!--
+{<br/>
+&emsp;"JobStatus": "Submitted"<br/>
+<INPUT TYPE="submit" NAME="Check Status" VALUE="Check Status">
+}<br/>
+-->
+</FORM>
+<!--
+
+<P>26 June 2023, 06:19:49</P>
+-->
+
+</body>
+</html>
