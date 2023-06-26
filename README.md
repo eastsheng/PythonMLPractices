@@ -1,2 +1,3 @@
-# PythonMLPractices
-Python Machine Learning Practices
+## 《Python机器学习实践指南》
+
+- 实操记录
