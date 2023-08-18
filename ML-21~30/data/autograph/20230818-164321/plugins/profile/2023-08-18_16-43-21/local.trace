@@ -1,0 +1,37 @@
+
+
+/device:GPU:0
+YõT
+	/host:CPUõ¿ş•İ
+
+python3.11¿ş•İ&€°
+tf_Compute/906231837€°"Uõ¿ş•İstrjoinHÀ¨—PàÊò§?Z
+tracing_count2Z!
+tf_function_calltraced-nonXla"1õ¿ş•İtf.function-graph_buildingHÀÈ¼ÈP ›ø¹"(õ¿ş•İconvert_to_tensorHà÷ê‘PÀ¢¾ "(õ¿ş•İconvert_to_tensorH€«İÅP ì‘Ğ"'õ¿ş•İconvert_to_tensorHÀÂ•ÿPàë‡
+"'õ¿ş•İconvert_to_tensorHÀ÷ŠÛP€¤è"'õ¿ş•İconvert_to_tensorHÀ¸½ÎP€Ğ†"/õ¿ş•İTFE_Py_ExecuteCancelableHÀµæğ#P€®§ƒ"Uõ¿ş•İEagerExecuteHàä¶š$Pà‚²×Z"
+eager_op__inference_strjoin_30Z
+is_func1"@õ¿ş•İ)EagerLocalExecute: __inference_strjoin_30HÀ‘è$P ÚŒÓ"&õ¿ş•İEagerCopyToDeviceHÀ„“Ÿ$PàÆ["2õ¿ş•İValidateInputTypeAndPlacementHÀê®Ÿ9PÀ¹U")õ¿ş•İEagerKernelExecuteHÀïÍ¢9PàåõË"/õ¿ş•İKernelAndDeviceFunc::RunHÀ¶Ú¤9PÀÉ¾à"Eõ¿ş•İExecutorState::ProcessH€‘Š«:PÀƒZ
+id-1Z
+iter_num0"Dõ¿ş•İ
+StringJoinHÀ§»­:P€™Z"
+	long_nameStringJoin:StringJoin"Eõ¿ş•İExecutorState::ProcessH ºÂ³:P ­“Z
+id-1Z
+iter_num0"tõ¿ş•İ_send_StringJoin_0:_SendHàâç·:PÀ·ZD
+key=/device:CPU:0;83a5e21fde49b82e;/device:CPU:0;StringJoin:0;0:0"oõ¿ş•İ_send_Identity_0:_SendH ·«»:PÀÏ$ZB
+key;/device:CPU:0;83a5e21fde49b82e;/device:CPU:0;Identity:0;0:0"3õ¿ş•İExecutorDoneCallbackHÀÍ«¼:P ÷6Z
+id-1"=õ¿ş•İFunctionRunH £ƒ;PàÚ×Z
+id-1582441341150300097",õ¿ş•İTFE_DeleteTensorHandleH€ºæBP€º·"!õ¿ş•İtf.constantH ÷üçEPà‡ï*",õ¿ş•İTFE_DeleteTensorHandleHà˜åFPÀØ"/õ¿ş•İTFE_Py_FastPathExecute_CHàÛ€ÄFPÀëš	"Jõ¿ş•İEagerExecuteHàóÁÿFP€ÉÁïZ
+eager_op_EagerConstZ
+is_func0"5õ¿ş•İEagerLocalExecute: _EagerConstHàÙ—‚GP€ùºì"'õ¿ş•İEagerCopyToDeviceHÀÏİ’GPÀ€â"3õ¿ş•İValidateInputTypeAndPlacementHàìİ¢KPàš½"(õ¿ş•İEagerKernelExecuteH í¿¥KP€÷¤H".õ¿ş•İKernelAndDeviceFunc::RunHà¸‰¨KPÀ¶¨9",õ¿ş•İTFE_DeleteTensorHandleHàÎ÷ğKP –€"+õ¿ş•İTFE_DeleteTensorHandleHÀêø÷KPà§"+õ¿ş•İTFE_DeleteTensorHandleHàïÈüKPÀš"Iõ¿ş•İEagerExecuteHàÕÿKPÀ¥ıÛZ
+is_func0Z
+eager_op
+LogicalAnd"4õ¿ş•İEagerLocalExecute: LogicalAndH€ª±LP€ÌÙ"'õ¿ş•İEagerCopyToDeviceHÀ´ÑŠLPàî"2õ¿ş•İValidateInputTypeAndPlacementHàš¨•OPàÆ["(õ¿ş•İEagerKernelExecuteHàÓ–OP ŒáC".õ¿ş•İKernelAndDeviceFunc::RunHà€ş—OP ŠÙ8"'õ¿ş•İconvert_to_tensorHÀÍÅ›PP€Ä"/õ¿ş•İTFE_Py_FastPathExecute_CH š„¥PP †¯ø"Gõ¿ş•İEagerExecuteHÀ¥ìÊPP ×ĞZ
+is_func0Z
+eager_opIdentity"2õ¿ş•İEagerLocalExecute: IdentityH ‹‘ÌPP ¯ÌÎ"'õ¿ş•İEagerCopyToDeviceHà¯ÛÒPP€›î"2õ¿ş•İValidateInputTypeAndPlacementH èèòRPÀ„="(õ¿ş•İEagerKernelExecuteHÀşèóRP ª±&".õ¿ş•İKernelAndDeviceFunc::RunHÀ¼ûôRP ¤Î".õ¿ş•İTFE_Py_FastPathExecute_CH ƒÁ¦SP€ô£"'õ¿ş•İconvert_to_tensorHÀ‚ÍëSP€èİ"'õ¿ş•İconvert_to_tensorH ¤±ûSPà’Ûg"!õ¿ş•İtf.constantH€¥ãÈTP §å"+õ¿ş•İTFE_DeleteTensorHandleH ›‹ÜTP€ŸI"'õ¿ş•İconvert_to_tensorH Ö†åTPÀùï"!õ¿ş•İtf.constantHà”ûèTP ­“"+õ¿ş•İTFE_DeleteTensorHandleHàà¦îTPà§"'õ¿ş•İconvert_to_tensorHÀ€ƒóTPà¸¬-"!õ¿ş•İtf.constantH ôõUP€®¦
+"+õ¿ş•İTFE_DeleteTensorHandleH ¯ñ™UPàÜ*"/õ¿ş•İTFE_Py_ExecuteCancelableHàŸç¥UPàŠÉÔ"Kõ¿ş•İEagerExecuteH€¶œ¿UPÀ—¸¹Z
+is_func0Z
+eager_opWriteSummary"6õ¿ş•İEagerLocalExecute: WriteSummaryHàºŠÁUP€¶Ÿ·"'õ¿ş•İEagerCopyToDeviceHà©ÚÄUPÀÇî"3õ¿ş•İValidateInputTypeAndPlacementHà„Ò£YP €±"(õ¿ş•İEagerKernelExecuteH ›ƒ¦YPÀÅQ".õ¿ş•İKernelAndDeviceFunc::RunH€Š¢¨YP ø;",õ¿ş•İTFE_DeleteTensorHandleHÀ×’ÿYP Ë˜"+õ¿ş•İTFE_DeleteTensorHandleHÀÓ·ZP Â"+õ¿ş•İTFE_DeleteTensorHandleHàÿ†‚ZPà§"!õ¿ş•İtf.constantHà·ë’ZPàÅÌ"+õ¿ş•İTFE_DeleteTensorHandleH€È½£ZP Â"+õ¿ş•İTFE_DeleteTensorHandleH ¢³®ZP€µ"+õ¿ş•İTFE_DeleteTensorHandleHàÅ¹¯ZP€Ôa"+õ¿ş•İTFE_DeleteTensorHandleHàŠó¾ZPà‘C"+õ¿ş•İTFE_DeleteTensorHandleH€¡ó¿ZPà§"Xõ€°ExecutorState::ProcessHÀ¸ô£;PÀ¹¡¬Z
+iter_num0Z
+id-1582441341150300097"<õ€°PrintV2H€ûÃ¥;P€Ÿ«ûZ
+	long_namePrintV2:PrintV2"Fõ€°ExecutorDoneCallbackH€îºÒ@Pà¼ÒZ
+id-1582441341150300097

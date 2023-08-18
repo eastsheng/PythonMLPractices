@@ -1,0 +1,35 @@
+
+
+/device:GPU:0
+YõT
+	/host:CPUõ&¯È°‹
+tf_Compute/560735279¯È°‹Ä†Ô¼
+
+python3.11Ä†Ô¼"UõÄ†Ô¼strjoinHà¯ƒ÷P€„šóOZ!
+tf_function_calltraced-nonXlaZ
+tracing_count2"1õÄ†Ô¼tf.function-graph_buildingHàİ® P “#"(õÄ†Ô¼convert_to_tensorH€¶ú¿P€Èëõ"(õÄ†Ô¼convert_to_tensorHàšÉP àµï"'õÄ†Ô¼convert_to_tensorH ö÷ÎPÀœ”"'õÄ†Ô¼convert_to_tensorH ÊëÃPÀ¨¥"'õÄ†Ô¼convert_to_tensorH ëÅÉP İŒ"/õÄ†Ô¼TFE_Py_ExecuteCancelableH æ†î0Pàœ'"UõÄ†Ô¼EagerExecuteHà‘â³1P€“¹&Z
+is_func1Z"
+eager_op__inference_strjoin_35"@õÄ†Ô¼)EagerLocalExecute: __inference_strjoin_35HÀ’õ·1P€ğ°´&"&õÄ†Ô¼EagerCopyToDeviceH Ìû¹1PÀîm"2õÄ†Ô¼ValidateInputTypeAndPlacementH  …³KP€ê0")õÄ†Ô¼EagerKernelExecuteHÀô—µKP€±²µ"/õÄ†Ô¼KernelAndDeviceFunc::RunH€¡˜·KPÀç†"FõÄ†Ô¼ExecutorState::ProcessH á·NP ¡”Z
+iter_num0Z
+id-1"DõÄ†Ô¼
+StringJoinHÀÌ¤ºNPÀ½åZ"
+	long_nameStringJoin:StringJoin"FõÄ†Ô¼ExecutorState::ProcessH€ÁªÜNPÀ¢Ÿ×Z
+id-1Z
+iter_num0"tõÄ†Ô¼_send_StringJoin_0:_SendHàÌç¯PPàØÏZD
+key=/device:CPU:0;63851ed0a41b1693;/device:CPU:0;StringJoin:0;0:0"oõÄ†Ô¼_send_Identity_0:_SendHÀ³Ğ¶PPàÜ*ZB
+key;/device:CPU:0;63851ed0a41b1693;/device:CPU:0;Identity:0;0:0"3õÄ†Ô¼ExecutorDoneCallbackHà³¸PPÀ¹UZ
+id-1"<õÄ†Ô¼FunctionRunHàŸâ†RP ß”Z
+id-490602391662583358",õÄ†Ô¼TFE_DeleteTensorHandleHÀš»‰YPÀËÉ"!õÄ†Ô¼tf.constantHÀÎßŠ\PàÆÅ1"+õÄ†Ô¼TFE_DeleteTensorHandleH€Îç¸\P ¬O"/õÄ†Ô¼TFE_Py_FastPathExecute_CHàôÔü\P€Ñè"JõÄ†Ô¼EagerExecuteH€Õò]P€Œ›·Z
+is_func0Z
+eager_op_EagerConst"5õÄ†Ô¼EagerLocalExecute: _EagerConstHÀ©Åõ]P€³š³"'õÄ†Ô¼EagerCopyToDeviceH€ºÈ‡^P ¨ô"3õÄ†Ô¼ValidateInputTypeAndPlacementHÀüÍåcP Ë˜"(õÄ†Ô¼EagerKernelExecuteH€È—ècPÀÀæ?".õÄ†Ô¼KernelAndDeviceFunc::RunH œªêcPà§ü0",õÄ†Ô¼TFE_DeleteTensorHandleH€ó«dPà°Œ"+õÄ†Ô¼TFE_DeleteTensorHandleHàøÂ²dPà§"+õÄ†Ô¼TFE_DeleteTensorHandleHà»ô¶dPÀš"IõÄ†Ô¼EagerExecuteHà‹û¹dP Ô‚–	Z
+is_func0Z
+eager_op
+LogicalAnd"4õÄ†Ô¼EagerLocalExecute: LogicalAndHÀÅ¼dP £Å“	"'õÄ†Ô¼EagerCopyToDeviceH ¨ÅdPàî"3õÄ†Ô¼ValidateInputTypeAndPlacementHàÜ°·jP –€")õÄ†Ô¼EagerKernelExecuteHÀµ€ºjP€³•”"/õÄ†Ô¼KernelAndDeviceFunc::RunHà‰“¼jP€öÜç"'õÄ†Ô¼convert_to_tensorHÀ¾ˆÔnPÀ¿¸	"/õÄ†Ô¼TFE_Py_FastPathExecute_CH€çâğnP ²™£"GõÄ†Ô¼EagerExecuteHÀÄŞ‡pP ÂÇ‡Z
+eager_opIdentityZ
+is_func0"2õÄ†Ô¼EagerLocalExecute: IdentityHÀèÆ‹pP ´®ƒ"'õÄ†Ô¼EagerCopyToDeviceH âç™pPàµ«"2õÄ†Ô¼ValidateInputTypeAndPlacementHà×ÑÎvP ág"(õÄ†Ô¼EagerKernelExecuteH Ï¹ĞvPà†à=".õÄ†Ô¼KernelAndDeviceFunc::RunH á­ÒvPàˆ³0".õÄ†Ô¼TFE_Py_FastPathExecute_CH  £¢wPàè¥*"'õÄ†Ô¼convert_to_tensorH€›§ÿwP Îä"'õÄ†Ô¼convert_to_tensorH€¬Œ”xPàìêX"!õÄ†Ô¼tf.constantHà¯ÏxP £Š"+õÄ†Ô¼TFE_DeleteTensorHandleH —ÑäxP ág"'õÄ†Ô¼convert_to_tensorHÀ¦ßïxPÀÉö"!õÄ†Ô¼tf.constantHàö–ôxPà¤û"+õÄ†Ô¼TFE_DeleteTensorHandleH€ÃóúxPÀÏ$"'õÄ†Ô¼convert_to_tensorH ğ†yPÀÒÚA"!õÄ†Ô¼tf.constantH †À±yP€õ²"+õÄ†Ô¼TFE_DeleteTensorHandleH —¼yP ÷6"/õÄ†Ô¼TFE_Py_ExecuteCancelableHàé•×yP ¬ø‡"KõÄ†Ô¼EagerExecuteH ·œıyPÀ©¨àZ
+is_func0Z
+eager_opWriteSummary"6õÄ†Ô¼EagerLocalExecute: WriteSummaryHàãœÿyP  ıİ"'õÄ†Ô¼EagerCopyToDeviceH öòƒzP€½ƒ"3õÄ†Ô¼ValidateInputTypeAndPlacementHàÿ¹üPàå¤"(õÄ†Ô¼EagerKernelExecuteH ËƒÿPÀ×®]"/õÄ†Ô¼KernelAndDeviceFunc::RunHÀÔ®€Pà´†H"-õÄ†Ô¼TFE_DeleteTensorHandleHà±Äş€Pàš½",õÄ†Ô¼TFE_DeleteTensorHandleHÀôÄP€ê0",õÄ†Ô¼TFE_DeleteTensorHandleH€®š‚Pà§""õÄ†Ô¼tf.constantH€æş’PàÃù ",õÄ†Ô¼TFE_DeleteTensorHandleHÀ—Ó°P ÷6",õÄ†Ô¼TFE_DeleteTensorHandleHÀÎó»PàÜ*"-õÄ†Ô¼TFE_DeleteTensorHandleHÀŒ†½P€óª",õÄ†Ô¼TFE_DeleteTensorHandleHÀ“­ËPÀ„=",õÄ†Ô¼TFE_DeleteTensorHandleHà©­ÌPÀš"Wõ¯È°‹ExecutorState::ProcessH ï»ŸRP õÅˆZ
+iter_num0Z
+id-490602391662583358"<õ¯È°‹PrintV2HÀ¶¡RPÀ×‡ŞZ
+	long_namePrintV2:PrintV2"Eõ¯È°‹ExecutorDoneCallbackHà™Ë©WP Ò¿Z
+id-490602391662583358
